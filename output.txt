@@ -1,0 +1,24 @@
+You selected the following POI's:
+POI Name: A, POI Latitude: 0, POI Longitude: 0
+POI Name: B, POI Latitude: 1, POI Longitude: 1
+POI Name: C, POI Latitude: 2, POI Longitude: 2
+POI Name: D, POI Latitude: 2, POI Longitude: 0
+POI Name: E, POI Latitude: 2, POI Longitude: 4
+POI Name: F, POI Latitude: 3, POI Longitude: 1
+POI Name: G, POI Latitude: 5, POI Longitude: 7
+POI Name: H, POI Latitude: 7, POI Longitude: 4
+POI Name: I, POI Latitude: 9, POI Longitude: 1
+POI Name: J, POI Latitude: 3, POI Longitude: 5
+Your Selected budget is $200000
+The price of land per unit is $2000
+POI in Optimal Solution:
+POI Name: E, POI Latitude: 2, POI Longitude: 4
+POI Name: A, POI Latitude: 0, POI Longitude: 0
+POI Name: I, POI Latitude: 9, POI Longitude: 1
+POI Name: H, POI Latitude: 7, POI Longitude: 4
+POI Name: G, POI Latitude: 5, POI Longitude: 7
+
+Land Cost: $64000
+Roadway Cost: $135000
+Total Cost: $199000
+Optimal Development Problem Runtime: 11678 microseconds
